@@ -1,0 +1,7 @@
+flask
+requests
+youtube_transcript_api
+dotenv
+pytest
+google-genai
+google-generativeai
