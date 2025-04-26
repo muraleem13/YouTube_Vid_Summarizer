@@ -202,3 +202,12 @@ Perform tasks requiring integration of information across large volumes of conte
 -> Run interactive quiz if generated
 
 -> Display interactive flashcards if generated
+
+
+# There are two versions of code
+
+1. Kaggle Notebook {For running on kaggle download notebook and upload in kaggle, before runningensure to geenrate Gemini API KEY from AI Studio add in kaggle secrets section and here you go you can run your notebook and observe the results
+
+2. Flask Application. I have created flask application with simple UI. Fork Repo, create venv and install required Dependencies and setup your API KEY, along wiht unique flask app key in .env file.
+
+Would you love ❤️ to contribute in frontend, backend or middleware to make this application more efficient ? Lets do it together.
